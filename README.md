@@ -8,6 +8,7 @@
 [![Version](https://img.shields.io/cocoapods/v/CardParts.svg?style=flat)](http://cocoapods.org/pods/CardParts)
 [![License](https://img.shields.io/cocoapods/l/CardParts.svg?style=flat)](http://cocoapods.org/pods/CardParts)
 [![Platform](https://img.shields.io/cocoapods/p/CardParts.svg?style=flat)](http://cocoapods.org/pods/CardParts)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2FCardParts.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2FCardParts?ref=badge_shield)
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/Intuit/CardParts/master/images/mintsights.gif" width="290" alt="MintSights by CardParts"/>
