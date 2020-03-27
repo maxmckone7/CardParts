@@ -1395,3 +1395,5 @@ extension MYOwnCardPartController: CardPartsLongPressGestureRecognizerDelegate {
 # License
 
 CardParts is available under the Apache 2.0 license. See the [LICENSE](https://github.com/intuit/CardParts/blob/master/LICENSE) file for more info.
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2FCardParts.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2FCardParts?ref=badge_large)
